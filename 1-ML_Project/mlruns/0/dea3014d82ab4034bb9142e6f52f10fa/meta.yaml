@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dea3014d82ab4034bb9142e6f52f10fa/artifacts
+end_time: 1748544701485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dea3014d82ab4034bb9142e6f52f10fa
+run_name: sedate-panda-605
+run_uuid: dea3014d82ab4034bb9142e6f52f10fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544399767
+status: 3
+tags: []
+user_id: nisha

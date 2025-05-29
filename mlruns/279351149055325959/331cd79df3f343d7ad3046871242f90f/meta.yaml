@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279351149055325959/331cd79df3f343d7ad3046871242f90f/artifacts
+end_time: 1748081802800
+entry_point_name: ''
+experiment_id: '279351149055325959'
+lifecycle_stage: active
+run_id: 331cd79df3f343d7ad3046871242f90f
+run_name: valuable-sow-883
+run_uuid: 331cd79df3f343d7ad3046871242f90f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748081787574
+status: 3
+tags: []
+user_id: nisha

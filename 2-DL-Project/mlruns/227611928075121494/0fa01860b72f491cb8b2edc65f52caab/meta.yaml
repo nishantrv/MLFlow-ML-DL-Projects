@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nisha/Desktop/MLFlow/2-DL-Project/mlruns/227611928075121494/0fa01860b72f491cb8b2edc65f52caab/artifacts
+end_time: 1748553731599
+entry_point_name: ''
+experiment_id: '227611928075121494'
+lifecycle_stage: active
+run_id: 0fa01860b72f491cb8b2edc65f52caab
+run_name: bustling-moth-452
+run_uuid: 0fa01860b72f491cb8b2edc65f52caab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748553708169
+status: 3
+tags: []
+user_id: nisha

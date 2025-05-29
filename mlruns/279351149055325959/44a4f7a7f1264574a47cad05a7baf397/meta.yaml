@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279351149055325959/44a4f7a7f1264574a47cad05a7baf397/artifacts
+end_time: 1748082150816
+entry_point_name: ''
+experiment_id: '279351149055325959'
+lifecycle_stage: active
+run_id: 44a4f7a7f1264574a47cad05a7baf397
+run_name: enchanting-worm-267
+run_uuid: 44a4f7a7f1264574a47cad05a7baf397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748082141124
+status: 3
+tags: []
+user_id: nisha

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nisha/Desktop/MLFlow/2-DL-Project/mlruns/227611928075121494/fda331247df14728b074847fef05f790/artifacts
+end_time: 1748552642238
+entry_point_name: ''
+experiment_id: '227611928075121494'
+lifecycle_stage: active
+run_id: fda331247df14728b074847fef05f790
+run_name: sincere-gnu-233
+run_uuid: fda331247df14728b074847fef05f790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748552642163
+status: 4
+tags: []
+user_id: nisha

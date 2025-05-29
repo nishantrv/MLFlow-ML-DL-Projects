@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nisha/Desktop/MLFlow/2-DL-Project/mlruns/227611928075121494/f0c4abe21d7d466484f78129ac4d4271/artifacts
+end_time: 1748553473599
+entry_point_name: ''
+experiment_id: '227611928075121494'
+lifecycle_stage: active
+run_id: f0c4abe21d7d466484f78129ac4d4271
+run_name: gregarious-stoat-279
+run_uuid: f0c4abe21d7d466484f78129ac4d4271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748553467366
+status: 4
+tags: []
+user_id: nisha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/389032077628760277/17fde48860f749ed83ba115893d3632f/artifacts
+end_time: 1748078675876
+entry_point_name: ''
+experiment_id: '389032077628760277'
+lifecycle_stage: active
+run_id: 17fde48860f749ed83ba115893d3632f
+run_name: bold-yak-456
+run_uuid: 17fde48860f749ed83ba115893d3632f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748078675717
+status: 3
+tags: []
+user_id: nisha

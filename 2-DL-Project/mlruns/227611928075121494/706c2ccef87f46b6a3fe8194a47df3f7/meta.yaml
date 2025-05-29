@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nisha/Desktop/MLFlow/2-DL-Project/mlruns/227611928075121494/706c2ccef87f46b6a3fe8194a47df3f7/artifacts
+end_time: 1748553771735
+entry_point_name: ''
+experiment_id: '227611928075121494'
+lifecycle_stage: active
+run_id: 706c2ccef87f46b6a3fe8194a47df3f7
+run_name: sassy-dove-764
+run_uuid: 706c2ccef87f46b6a3fe8194a47df3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748553662373
+status: 3
+tags: []
+user_id: nisha

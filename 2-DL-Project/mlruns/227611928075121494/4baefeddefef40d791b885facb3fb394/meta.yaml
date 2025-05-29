@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nisha/Desktop/MLFlow/2-DL-Project/mlruns/227611928075121494/4baefeddefef40d791b885facb3fb394/artifacts
+end_time: 1748552696651
+entry_point_name: ''
+experiment_id: '227611928075121494'
+lifecycle_stage: active
+run_id: 4baefeddefef40d791b885facb3fb394
+run_name: thundering-bird-797
+run_uuid: 4baefeddefef40d791b885facb3fb394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748552696603
+status: 4
+tags: []
+user_id: nisha
